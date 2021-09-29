@@ -137,3 +137,11 @@ Received Import Request.
 Start importing Assets/Assets/Rough-model-buildings.fbx using Guid(84e9a4ea991b52c4c89cb2e8cd567585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c263cdf1799988ac3642be338be73f') in 2.479948 seconds 
   Import took 2.516911 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1382.733604 seconds.
+  path: Assets/Assets/Rough-model-buildings.blend
+  artifactKey: Guid(9c87344368772064f901ff079fc9b7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Rough-model-buildings.blend using Guid(9c87344368772064f901ff079fc9b7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596501a3bde9d418bdfc05622b540a0e') in 2.168248 seconds 
+  Import took 2.268217 seconds .
+
